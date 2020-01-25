@@ -1,6 +1,6 @@
 /* cyrillic-ext */
 @font-face {
-    font-family: 'Roboto';
+    font-family: 'nchifont';
     font-style: normal;
     font-weight: 700;
     src: local('Roboto Bold'), local('Roboto-Bold'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2) format('woff2');
@@ -8,7 +8,7 @@
   }
   /* cyrillic */
   @font-face {
-    font-family: 'Roboto';
+    font-family: 'nchifont';
     font-style: normal;
     font-weight: 700;
     src: local('Roboto Bold'), local('Roboto-Bold'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2) format('woff2');
@@ -16,7 +16,7 @@
   }
   /* greek-ext */
   @font-face {
-    font-family: 'Roboto';
+    font-family: 'nchifont';
     font-style: normal;
     font-weight: 700;
     src: local('Roboto Bold'), local('Roboto-Bold'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2) format('woff2');
@@ -24,7 +24,7 @@
   }
   /* greek */
   @font-face {
-    font-family: 'Roboto';
+    font-family: 'nchifont';
     font-style: normal;
     font-weight: 700;
     src: local('Roboto Bold'), local('Roboto-Bold'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2) format('woff2');
@@ -32,7 +32,7 @@
   }
   /* vietnamese */
   @font-face {
-    font-family: 'Roboto';
+    font-family: 'nchifont';
     font-style: normal;
     font-weight: 700;
     src: local('Roboto Bold'), local('Roboto-Bold'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2) format('woff2');
@@ -40,7 +40,7 @@
   }
   /* latin-ext */
   @font-face {
-    font-family: 'Roboto';
+    font-family: 'nchifont';
     font-style: normal;
     font-weight: 700;
     src: local('Roboto Bold'), local('Roboto-Bold'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2) format('woff2');
@@ -48,7 +48,7 @@
   }
   /* latin */
   @font-face {
-    font-family: 'Roboto';
+    font-family: 'nchifont';
     font-style: normal;
     font-weight: 700;
     src: local('Roboto Bold'), local('Roboto-Bold'), url(https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfBBc4.woff2) format('woff2');
